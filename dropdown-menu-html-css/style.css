@@ -1,5 +1,6 @@
-body{
- background-image: url("../img/ep_naturalwhite.png");
+* {
+    margin: 0;
+    padding: 0;
 }
 header{
  margin-top: 50px;
