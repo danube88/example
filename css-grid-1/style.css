@@ -1,0 +1,7 @@
+div#grid { /* This is our CSS grid parent container */
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px 100px; /* 5 cols */
+    grid-template-rows: 100px 100px 100px 100px; /* 4 rows */
+    grid-row-gap: 15px;
+    grid-column-gap: 15px;
+}
